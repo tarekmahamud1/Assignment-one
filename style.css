@@ -1,0 +1,307 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{font-size: 50px;}
+
+#one{
+ color:rgb(238, 9, 9);
+}
+
+
+.container {
+    display:flex;
+}
+.line {
+    margin-top: 48px;
+    padding-top: 20px;
+    height: 130px;
+    border:5px solid pink;
+    border-radius: 5px;
+}
+.heading{
+
+    margin-left: 20px;
+    font-family:Broadway;
+}
+
+.headder-text-one
+{
+ color:rgb(15, 78, 2);
+ margin-left:0%;
+}
+
+
+.first-class{
+    margin-top: 40px;
+    font-weight: 700;
+}
+
+
+.two{
+    width: 50%;
+    padding-left: 10%;
+}
+p{
+    font-weight: 700;
+    margin-bottom:50px;
+}
+.hire-button{
+    background-image: linear-gradient(red,orange);
+    padding:20px 50px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight:700;  
+}
+
+.two img{
+     width:80%;
+     padding-top: 10%;
+     padding-bottom: 10%;   
+}
+.big
+{
+    display:flex;   
+    margin: 0%;
+    margin-bottom: 0px;
+    background-image: linear-gradient(orange,pink);
+}
+
+.second-class
+{
+    margin-top:20px;
+    padding:auto;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue ,cyan);
+    border-image-slice: 1;
+    font-family:Broadway;
+}
+
+.zero{
+background-color: pink;
+    padding:1%;
+}
+h1{
+    font-size: 75px;
+
+}
+#header-font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headder-text-two
+{
+ color:rgb(15, 78, 2);
+ margin-left:30%;
+}
+
+.fotter-a{
+    padding-left:2%;
+    padding-bottom: 5%;
+    display:flex;   
+    margin: 0%;
+    margin-bottom: 0px;
+    background-image: linear-gradient(pink,orange);
+
+    }
+    .tarek{
+        box-shadow: 10px 10px 10px 10px black;
+        width:40%;
+        padding: 30px;
+        border-radius: 10%;
+        margin-left:70px;
+        margin-right: 70px;
+        Justify-content: space-evenly;
+    
+    }
+    
+    .tarek h2{
+        color: blanchedalmond;
+    }
+    #border{
+            border-left: 10px solid;
+            border-image: linear-gradient(blue ,cyan);
+            border-image-slice: 1;
+    }
+    .tarek img{
+        width: 50%;
+        padding-left: 100px;
+    }
+    
+    
+
+    
+h1{font-size: 50px;}
+
+.one{
+ color:rgb(68, 22, 11);
+}
+
+.big-three-class
+{
+    margin-top:10px;
+    padding:auto;
+    font-family:Broadway;
+}
+.big-second-class
+{
+    width: 50%;
+    padding-left: 0%;
+    padding:100px;
+    padding-right:20%;
+}
+p{
+    font-weight: 700;
+    margin-bottom:50px;
+}
+
+.big-hire-button{
+    background-image: linear-gradient(red,orange);
+    padding:12px 40px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font: weight 700px;; 
+}
+
+.two img{
+     width:80%;
+     padding-top: 10%;
+     padding-bottom: 10%; 
+     padding-left: 5%;
+     margin-top: 30px; 
+}
+
+.big-two
+{
+    display:flex;   
+    margin: 0%;
+    margin-bottom: 0px;
+    background-image: linear-gradient(orange,pink);
+}
+
+
+
+
+
+
+
+h1{font-size: 50px;}
+
+.one{
+ color:rgb(68, 22, 11);
+}
+
+
+
+.big-three-second-class{
+    width: 50%;
+    padding-left:5%;
+}
+
+
+.big-three-first-class{
+    width: 50%;
+    padding-left:5%;
+    margin-left: 7%;
+    margin-top: 10%;
+}
+p{
+    font-weight: 700;
+    margin-bottom:50px;
+}
+.hire-button{
+    background-image: linear-gradient(red,orange);
+    padding:20px 50px;
+    text-decoration:none;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight:700;  
+}
+
+
+.big-three-second-class img{
+     width:80%;
+     padding-top:10%;
+     padding-bottom: 10%;   
+     padding-right: 10%;
+}
+.big-three
+{
+    display:flex;   
+    margin: 0%;
+    margin-bottom: 0px;
+    background-image: linear-gradient(pink,orange);
+}
+
+.zero-second{
+
+    background-color:orange;
+    padding:1%;
+}
+
+.five{
+background-image: linear-gradient(orange,pink);
+width: 100%;
+}
+
+.button-one{
+    height: 40px;
+    width: 150px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.button-two{
+    height: 40px;
+    width: 150px;
+    padding-left: 20px;
+    margin-left: 60px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+.five-first-class{
+
+    width: 50%;
+    padding:5%;
+    padding-left: 30%;
+
+
+}
+.five-first-class input{
+
+    height: 50px;
+    width: 800px;
+}
+
+.button-three{
+    height: 40px;
+    width: 150px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.last-class{
+
+    background-color: black;
+    padding:30px;
+    padding-left: 37%;
+}
+.header-font-last-one
+{
+color:red;
+font-style:italic;
+
+}
+.header-font-last
+{
+    color: white;
+}
