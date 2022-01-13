@@ -3,6 +3,66 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
 }
+
+
+.first-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.header-logo{
+    background-image:linear-gradient(pink,orange); 
+
+    height: 180px;
+    padding-bottom: 4%;
+}
+.header-logo img{
+    height: 150px;
+    width: 80%;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+.header-pic{
+
+    height: 350px;
+    background-image:linear-gradient(orange,pink); 
+
+}
+
+.complete{
+
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h1{font-size: 50px;}
 
 #one{
@@ -62,14 +122,109 @@ p{
      padding-top: 10%;
      padding-bottom: 10%;   
 }
+
+
+
+
+.container-two{
+
+    height:200px;
+    background-image:linear-gradient(pink,orange); 
+    display:flex;
+    padding-left:2%;
+}
+.box3{
+     width: 30%;
+        margin-left: 4%;
+        border-radius: 5%;
+       
+    }
+
+    .order-list{
+text-decoration: none;
+
+    }
+
+.unorder-list{
+    display: flex; 
+   
+}
+.list-item-one{
+    margin-left:75px;
+    padding-right: 160px;
+    padding-left: 40px;
+    height: 70px;
+    width:50%;
+   
+}
+.list-item-two{
+    margin-left:95px;
+    height: 70px;
+    width:50%;
+    border-radius: 10px;
+   
+}
+.list-item-one h1{
+    padding-left: 20%;
+    font-weight: 700;
+    height: 80px;
+    width: 295px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.list-item-one a{
+    text-decoration: none;
+}
+.list-item-two h1{
+    padding-left: 20%;
+    font-weight: 600;
+    height: 80px;
+    width: 295px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    color: green;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.list-item-two a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .big
 {
     display:flex;   
     margin: 0%;
     margin-bottom: 0px;
-    background-image: linear-gradient(orange,pink);
+    background: linear-gradient(135deg, orange 60%, cyan);
 }
-
+.big-two
+{
+    display:flex;   
+    margin: 0%;
+    margin-bottom: 0px;
+    background: linear-gradient(orange,pink);
+}
 .second-class
 {
     margin-top:20px;
@@ -81,7 +236,7 @@ p{
 }
 
 .zero{
-background-color: pink;
+    background-color: orange;
     padding:1%;
 }
 h1{
@@ -90,7 +245,16 @@ h1{
 }
 #header-font{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
 }
+.zero h1{
+
+    margin-left: 130px;
+
+
+}
+
+
 .headder-text-two
 {
  color:rgb(15, 78, 2);
@@ -103,16 +267,16 @@ h1{
     display:flex;   
     margin: 0%;
     margin-bottom: 0px;
-    background-image: linear-gradient(pink,orange);
+    background-image: linear-gradient(orange);
 
     }
     .tarek{
-        box-shadow: 10px 10px 10px 10px black;
-        width:40%;
-        padding: 30px;
+        box-shadow: 5px 5px 5px 5px black;
+        width:15%;
+        padding: 10px;
         border-radius: 10%;
-        margin-left:70px;
-        margin-right: 70px;
+        margin-left:25px;
+        margin-right: 10px;
         Justify-content: space-evenly;
     
     }
@@ -126,69 +290,13 @@ h1{
             border-image-slice: 1;
     }
     .tarek img{
-        width: 50%;
-        padding-left: 100px;
+        width: 100%;
+        border: 1px solid orange;
+        border-radius: 40px;
+       
     }
-    
-    
-
-    
-h1{font-size: 50px;}
-
-.one{
- color:rgb(68, 22, 11);
-}
-
-.big-three-class
-{
-    margin-top:10px;
-    padding:auto;
-    font-family:Broadway;
-}
-.big-second-class
-{
-    width: 50%;
-    padding-left: 0%;
-    padding:100px;
-    padding-right:20%;
-}
-p{
-    font-weight: 700;
-    margin-bottom:50px;
-}
-
-.big-hire-button{
-    background-image: linear-gradient(red,orange);
-    padding:12px 40px;
-    text-decoration:none;
-    border-radius: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    font: weight 700px;; 
-}
-
-.two img{
-     width:85%;
-     padding-top: 10%;
-     padding-bottom: 10%; 
-     padding-left: 5%;
-     margin-top: 30px; 
-}
-
-.big-two
-{
-    display:flex;   
-    margin: 0%;
-    margin-bottom: 0px;
-    background-image: linear-gradient(orange,pink);
-}
-
-
-
-
-
-
-
+   
+      
 h1{font-size: 50px;}
 
 .one{
@@ -196,97 +304,19 @@ h1{font-size: 50px;}
 }
 
 
-
-.big-three-second-class{
-    width: 50%;
-    padding-left:5%;
-}
-
-
-.big-three-first-class{
-    width: 50%;
-    padding-left:5%;
-    margin-left: 7%;
-    margin-top: 10%;
-}
 p{
     font-weight: 700;
     margin-bottom:50px;
 }
-.hire-button{
-    background-image: linear-gradient(red,orange);
-    padding:20px 50px;
-    text-decoration:none;
-    border-radius: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    font-weight:700;  
-}
 
 
-.big-three-second-class img{
-     width:75%;
-     padding-top:10%;
-     padding-bottom: 10%;   
-     padding-right: 10%;
-}
-.big-three
-{
-    display:flex;   
-    margin: 0%;
-    margin-bottom: 0px;
-    background-image: linear-gradient(pink,orange);
-}
 
-.zero-second{
+h1{font-size: 50px;}
 
-    background-color:orange;
-    padding:1%;
-}
 
-.five{
-background-image: linear-gradient(orange,pink);
-width: 100%;
-}
-
-.button-one{
-    height: 40px;
-    width: 150px;
-    padding-left: 20px;
+p{
     font-weight: 700;
-    font-size: 20px;
-}
-.button-two{
-    height: 40px;
-    width: 150px;
-    padding-left: 20px;
-    margin-left: 60px;
-    font-weight: 700;
-    font-size: 20px;
-}
-
-
-.five-first-class{
-
-    width: 50%;
-    padding:5%;
-    padding-left: 30%;
-
-
-}
-.five-first-class input{
-
-    height: 50px;
-    width: 800px;
-}
-
-.button-three{
-    height: 40px;
-    width: 150px;
-    padding-left: 20px;
-    font-weight: 700;
-    font-size: 20px;
-    margin-top: 30px;
+    margin-bottom:50px;
 }
 
 .last-class{
@@ -305,4 +335,10 @@ font-style: italic;
 .header-font-last
 {
     color: white;
+}
+
+
+#menu-two h2{
+
+    margin-top: 40px;
 }
